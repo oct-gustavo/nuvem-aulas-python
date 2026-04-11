@@ -1,3 +1,5 @@
+#Loops com for são estruturas de repetição usadas mais quando você tem uma referência de onde voce quer chegar.
+
 #Loops com Listas
 names = ['Maicon', 'Gustavo', 'Bia', 'Gabriel']
 

@@ -1,0 +1,1 @@
+#Exercicio 02 - Crie um simulador de tabuada, onde o jogador digita um número, e a tabuada desse número é exibida.
